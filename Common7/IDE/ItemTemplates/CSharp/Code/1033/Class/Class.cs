@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace $rootnamespace$
 {
-    public class $safeitemrootname$
+    public sealed class $safeitemrootname$
     {
     }
 }
